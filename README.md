@@ -131,8 +131,3 @@ La clase `Restaurante` actúa como coordinadora del sistema. Contiene listas de 
 | **Encapsulamiento** | Cada clase gestiona su propia información y expone métodos para operar sobre ella |
 | **Composición** | `Restaurante` contiene listas de `Producto` y `Cliente`; `Cliente` contiene una lista de `Producto` |
 | **Importaciones** | Los módulos se comunican mediante `from modelos.producto import Producto` |
-
-
-
-Desarrollado como actividad académica para la asignatura de **Programación Orientada a Objetos**.  
-Universidad — Período académico 2025.
